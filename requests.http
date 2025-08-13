@@ -1,5 +1,5 @@
 ### Create
-POST http://localhost:5088/notes
+POST http://localhost:5094/notes
 Content-Type: application/json
 
 {
@@ -8,7 +8,7 @@ Content-Type: application/json
 }
 
 ### List
-GET http://localhost:5088/notes?pageSize=5
+GET http://localhost:5094/notes?pageSize=5
 
 ### Delete (paste an Id)
-DELETE http://localhost:5088/notes/{{id}}
+DELETE http://localhost:5094/notes/{{0d7e0704-5417-462e-a80f-3fdec9a3c8f2}}

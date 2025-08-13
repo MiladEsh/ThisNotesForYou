@@ -28,3 +28,4 @@
 /Users/miladeshaghzey/ThisNotesForYou/ThisNotesForYou/obj/Debug/net8.0/ThisNotesForYou.pdb
 /Users/miladeshaghzey/ThisNotesForYou/ThisNotesForYou/obj/Debug/net8.0/ThisNotesForYou.genruntimeconfig.cache
 /Users/miladeshaghzey/ThisNotesForYou/ThisNotesForYou/obj/Debug/net8.0/ref/ThisNotesForYou.dll
+/Users/miladeshaghzey/ThisNotesForYou/ThisNotesForYou/obj/Debug/net8.0/ThisNotesForYou.sourcelink.json

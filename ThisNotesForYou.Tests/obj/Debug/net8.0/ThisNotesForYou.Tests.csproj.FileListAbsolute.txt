@@ -106,3 +106,4 @@
 /Users/miladeshaghzey/ThisNotesForYou/ThisNotesForYou.Tests/obj/Debug/net8.0/ThisNotesForYou.Tests.pdb
 /Users/miladeshaghzey/ThisNotesForYou/ThisNotesForYou.Tests/obj/Debug/net8.0/ThisNotesForYou.Tests.genruntimeconfig.cache
 /Users/miladeshaghzey/ThisNotesForYou/ThisNotesForYou.Tests/obj/Debug/net8.0/ref/ThisNotesForYou.Tests.dll
+/Users/miladeshaghzey/ThisNotesForYou/ThisNotesForYou.Tests/obj/Debug/net8.0/ThisNotesForYou.Tests.sourcelink.json
