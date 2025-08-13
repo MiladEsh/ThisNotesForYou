@@ -1,0 +1,17 @@
+@host = http://localhost:5088
+
+### Create
+POST {{host}}/notes
+Content-Type: application/json
+
+{
+  "title": "Blue Note",
+  "text": "Hello NoSQL"
+}
+
+### List
+GET {{host}}/notes?pageSize=5
+
+### Delete
+# Vervang {{id}} door een bestaand Id
+DELETE {{host}}/notes/{{id}}

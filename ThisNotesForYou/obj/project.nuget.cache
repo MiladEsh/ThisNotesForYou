@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "70jBpS1BURg=",
+  "success": true,
+  "projectFilePath": "/Users/miladeshaghzey/ThisNotesForYou/ThisNotesForYou/ThisNotesForYou.csproj",
+  "expectedPackageFiles": [
+    "/Users/miladeshaghzey/.nuget/packages/litedb/5.0.21/litedb.5.0.21.nupkg.sha512",
+    "/Users/miladeshaghzey/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
